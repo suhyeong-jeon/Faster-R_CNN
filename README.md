@@ -48,7 +48,11 @@
 #####   
 
 ### 3. Multi-Task Loss   
-#####
+##### RPN과 Fast R-CNN을 학습시키기 위해 Multi-task loss를 사용함. 하지만 RPN에서는 객체의 존재 여부만을 분류하고, Fast R-CNN에서는 배경을 포함한 class를 분류함.   
+#####   
+
+### 4. Training Faster R-CNN   
+##### 
 
 
 
